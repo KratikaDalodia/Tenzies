@@ -1,0 +1,16 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+  font-family: Inter, sans-serif;
+  background-color: #0B2434;
+}
+
+.main-container{
+  width: 650px;
+  height: 500px;
+  background-color: white;
+  margin: 45px auto;
+  border-radius: 10px;
+}
